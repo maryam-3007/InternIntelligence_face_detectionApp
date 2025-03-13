@@ -1,6 +1,6 @@
 # face_detectionapp
 
-Face Detection App 🎭 | Flutter + GetX + ML Kit
+Face Detection App 🎭 | Flutter + GetX + GoogleML Kit
 
 A real-time face detection app built with Flutter using ML Kit and GetX state management. This app can:
 ✅ Detect faces from a live camera feed.
@@ -17,7 +17,7 @@ A real-time face detection app built with Flutter using ML Kit and GetX state ma
 
 -GetX (State Management)
 
--ML Kit (Face Detection)
+-GoogleML Kit (Face Detection)
 
 -Sqflite (For storing face data)
 
